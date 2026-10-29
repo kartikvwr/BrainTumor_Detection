@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+
+# Virtual environment
+venv/
+.venv/
+env/
+
+# Dataset
+dataset/
+
+# Model files
+*.h5
+*.keras
+*.hdf5
+
+# macOS
+.DS_Store
+
+# VS Code / editors
+.vscode/
+.idea/
+
+# Temporary files
+tempCodeRunnerFile.py
+*.tmp
+*.log
